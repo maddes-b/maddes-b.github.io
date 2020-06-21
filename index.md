@@ -1,5 +1,10 @@
 # Die Spinne
 
 Von radioaktiver Spinne gebissen und dadurch Superkräfte bekommen.
-Kann an Wänden und Decken klettern sowie Gefahren spüren.
-Netzdüsen erfunden, um an Seilen zwischen den Hochhäusern New Yorks zu schwingen (Kein Stau!).
+
+## Eigenschaften
+
+* Kann an Wänden und Decken klettern
+* Kann Gefahren spüren
+* Schwingt durch selbst erfundene Netzdüsen durch die Häuserschluchten von New York (kein Stau!).
+* Lebt bei seiner Tante May
