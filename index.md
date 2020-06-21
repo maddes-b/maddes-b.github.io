@@ -8,3 +8,6 @@ Von radioaktiver Spinne gebissen und dadurch Superkräfte bekommen.
 * Kann Gefahren spüren
 * Schwingt durch selbst erfundene Netzdüsen durch die Häuserschluchten von New York (kein Stau!).
 * Lebt bei seiner Tante May
+
+Zitat:
+> Aus großer Kraft entsteht große Verantwortung.
